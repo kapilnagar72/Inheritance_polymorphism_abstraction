@@ -1,5 +1,5 @@
 
-//// compile-time polymorphism
+//compile-time polymorphism
 package Inheritance_polymorphism_abstraction;
 
 public class poly {
